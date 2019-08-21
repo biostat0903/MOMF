@@ -38,6 +38,8 @@ Two main functions `momf.fit` and `momf.computeRef` are used to do deconvoluatio
 > cell_prop <- momf_res$cell.prop
 > heatmap(cell_prop)
 ```
+## Citation
+[![DOI](https://zenodo.org/badge/203646467.svg)](https://zenodo.org/badge/latestdoi/203646467)
 
 ## Supports
 If it doesn't work, please reach out Xifang Sun and Sheng Yang (email: xfangsun@126.com or yangsheng@njmu.edu.cn).
